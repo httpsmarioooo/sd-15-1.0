@@ -8,6 +8,6 @@ export function rubricExcellent() {
     }
 }
 
-console.log(calificar(10)); // "Excelente"
-console.log(calificar(6));  // "Pasa"
-console.log(calificar(4));  // "Falla"
+console.log(rubricPerfect(10)); // "Excelente"
+console.log(rubricPerfect(6));  // "Pasa"
+console.log(rubricPerfect(4));  // "Falla"
