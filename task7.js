@@ -1,9 +1,9 @@
-export function rubricPerfect() {
-    if (puntuacion === 11) {
+export function rubricPerfect(score) {
+    if (score === 11) {
         return "Perfect";
-    } else if (puntuacion >= 9) {
+    } else if (score >= 9) {
         return "Excellent";
-    } else if (puntuacion >= 5) {
+    } else if (score >= 5) {
         return "Pass";
     } else {
         return "Fail";
