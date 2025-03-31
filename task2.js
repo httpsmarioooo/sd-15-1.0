@@ -6,7 +6,7 @@ export class FriendNames {
     }
   }
 
-  const nameEdFriends = new FriendNames ("Karim", "Uli","Georgina");
+  const nameEdFriends = new FriendNames ('Karim', 'Uli','Georgina');
   console.log(nameEdFriends.name1)
   console.log(nameEdFriends.name2)
   console.log(nameEdFriends.name3)
