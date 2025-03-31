@@ -4,7 +4,7 @@ export function rubricExcellent() {
     } else if (puntuacion >= 5) {
         return "Pass";
     } else {
-        return "FailS";
+        return "Fail";
     }
 }
 

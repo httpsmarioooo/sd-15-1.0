@@ -6,6 +6,6 @@ export function rubricPassFail(puntuacion) {
     }
 }
 
-console.log(calificar(6)); // "Pasa"
-console.log(calificar(4)); // "Falla"
+console.log(rubricPerfect(6)); // "Pasa"
+console.log(rubricPerfect(4)); // "Falla"
 
