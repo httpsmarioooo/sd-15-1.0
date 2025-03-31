@@ -43,4 +43,8 @@ If you have completed the above tasks, try the following extra tasks!
     ![alt text](image.png)
 
     Pasé las 10 pruebas pero luego me marcó 8 y luego me marcó 0 y solo tengo el pantallazo cuando pase las 8 
+
+    ![alt text](image-1.png)
+
+    YA
     
