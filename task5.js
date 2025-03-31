@@ -1,15 +1,11 @@
 export function rubricPassFail(puntuacion) {
-    if (puntuacion >= 5  && puntuacion <= 11){
+    if (puntuacion >= 5) {
         return "Pass";
-    } else if (puntuacion <5){
-        return "Fail"
+    } else {
+        return "Fail";
     }
 }
 
-console.log(rubricPassFail(6));
-console.log(rubricPassFail(2));
-console.log(rubricPassFail(1));
-console.log(rubricPassFail(11));
-console.log(rubricPassFail(12));
-
+console.log(calificar(6)); // "Pasa"
+console.log(calificar(4)); // "Falla"
 

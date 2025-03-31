@@ -38,3 +38,6 @@ If you have completed the above tasks, try the following extra tasks!
 
 7. A teacher also wants to mark students who get a perfect score of 11.
     * Extend the function so that it returns "Perfect" for a score of 11.
+
+
+    ![alt text](image.png)
