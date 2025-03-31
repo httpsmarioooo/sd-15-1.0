@@ -9,7 +9,6 @@ export function rubricPerfect() {
         return "Fail";
     }
 }
-
 console.log(rubricPerfect(11)); // "Perfecto"
 console.log(rubricPerfect(10)); // "Excelente"
 console.log(rubricPerfect(6));  // "Pasa"
